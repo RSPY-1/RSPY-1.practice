@@ -1,0 +1,67 @@
+#Maddie {
+    z-index: 5;
+    position:absolute;
+    left: 700px;
+    top: 500px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(254, 220, 219);
+}
+   
+#Brooke {
+    z-index: 5;
+    position:absolute;
+    left: 600px;
+    top: 400px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(254, 177, 183);
+}
+  
+#Chloe {
+    z-index: 5;
+    position:absolute;
+    left: 800px;
+    top: 400px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(254, 177, 236);
+}
+
+#Paige {
+    z-index: 5;
+    position:absolute;
+    left: 700px;
+    top: 300px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(253, 120, 139);
+}
+
+#Nia {
+    z-index: 5;
+    position:absolute;
+    left: 900px;
+    top: 300px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(254, 102, 148);
+}
+
+#stage {
+    z-index: 5;
+    position:absolute;
+    left:20px;
+    top:20px;
+    width:1000px;
+    height:800px;
+    border: 100px solid rgb(0, 0, 0);
+}
+body{
+    background-color: beige;
+}
